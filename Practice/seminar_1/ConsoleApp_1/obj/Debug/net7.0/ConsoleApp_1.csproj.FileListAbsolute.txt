@@ -1,0 +1,14 @@
+C:\Users\Alex\Desktop\Example\Practice\seminar_1\ConsoleApp_1\bin\Debug\net7.0\ConsoleApp_1.exe
+C:\Users\Alex\Desktop\Example\Practice\seminar_1\ConsoleApp_1\bin\Debug\net7.0\ConsoleApp_1.deps.json
+C:\Users\Alex\Desktop\Example\Practice\seminar_1\ConsoleApp_1\bin\Debug\net7.0\ConsoleApp_1.runtimeconfig.json
+C:\Users\Alex\Desktop\Example\Practice\seminar_1\ConsoleApp_1\bin\Debug\net7.0\ConsoleApp_1.dll
+C:\Users\Alex\Desktop\Example\Practice\seminar_1\ConsoleApp_1\bin\Debug\net7.0\ConsoleApp_1.pdb
+C:\Users\Alex\Desktop\Example\Practice\seminar_1\ConsoleApp_1\obj\Debug\net7.0\ConsoleApp_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex\Desktop\Example\Practice\seminar_1\ConsoleApp_1\obj\Debug\net7.0\ConsoleApp_1.AssemblyInfoInputs.cache
+C:\Users\Alex\Desktop\Example\Practice\seminar_1\ConsoleApp_1\obj\Debug\net7.0\ConsoleApp_1.AssemblyInfo.cs
+C:\Users\Alex\Desktop\Example\Practice\seminar_1\ConsoleApp_1\obj\Debug\net7.0\ConsoleApp_1.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Desktop\Example\Practice\seminar_1\ConsoleApp_1\obj\Debug\net7.0\ConsoleApp_1.dll
+C:\Users\Alex\Desktop\Example\Practice\seminar_1\ConsoleApp_1\obj\Debug\net7.0\refint\ConsoleApp_1.dll
+C:\Users\Alex\Desktop\Example\Practice\seminar_1\ConsoleApp_1\obj\Debug\net7.0\ConsoleApp_1.pdb
+C:\Users\Alex\Desktop\Example\Practice\seminar_1\ConsoleApp_1\obj\Debug\net7.0\ConsoleApp_1.genruntimeconfig.cache
+C:\Users\Alex\Desktop\Example\Practice\seminar_1\ConsoleApp_1\obj\Debug\net7.0\ref\ConsoleApp_1.dll
